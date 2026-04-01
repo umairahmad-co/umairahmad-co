@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm UMAIR AHMAD</h1>
-<h3 align="center">🎓 BSCS Graduate 💻 Python Developer, Automation, Django & AI from Pakistan</h3>
+<h3 align="center">🎓 BSCS Graduate 💻 Python Developer | Dialog flow | AI Agents & AI Automation | Chatbots | WordPress Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umairahmad-co&label=Profile%20views&color=0e75b6&style=flat" alt="umairahmad-co" /> </p>
 
