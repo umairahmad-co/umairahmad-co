@@ -1,19 +1,84 @@
-<h1 align="center">Hi 👋, I'm UMAIR AHMAD</h1>
-<h3 align="center">🎓 BSCS Graduate 💻 Python Developer, Automation, Django & AI from Pakistan</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umairahmad-co&label=Profile%20views&color=0e75b6&style=flat" alt="umairahmad-co" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umairahmad-co" alt="umairahmad-co" /></a> </p>
+💫 About Me:
+---
 
-- 🔭 I’m currently working on **AI Tools with Python**
+Hi 👋 I'm Umair Ahmad
 
-- 🌱 I’m currently learning **Python Programming Automation with Python Django Web Development AI Tools with Python**
+🎓 BSCS Graduate  
+💻 Python Developer 
+🚀 Python, Automation, Django & AI  
+---
+I am a BSCS graduate with a strong interest in Python development, web technologies, and emerging AI tools. 
+Currently, I am improving my skills in Python, and automation while also exploring Agentic AI systems. I enjoy solving problems, building small projects, and continuously learning new technologies.
+My goal is to build efficient web applications and automation tools that help businesses improve their workflow.
 
-- 📫 How to reach me **umairahmad.co@gmail.com**
+---
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+🛠 Skills
+
+- Python
+- n8n
+- make.com
+- Dialogflow Essentials
+- AI Agents
+- WordPress
+- HTML
+- Cascading Style Sheets (CSS)
+- Microsoft Office
+- Site Development
+- Website Building
+- Site Build
+- E-Commerce
+- WordPress Design
+- Web Content Writing
+- Wordpress Development
+- Product Display
+- Git & GitHub
+- VS Code
+- Problem Solving
+
+---
+
+📚 Strong Grip
+
+- Python Programming
+- Automation with Python
+- Django Web Development
+- AI Tools with Python
+
+---
+
+ 💻 My Projects
+
+Here are some projects I am working on:
+
+- Python Programs
+- Mini Python Projects
+- Automation Scripts
+- Django Web Projects
+
+---
+
+ 📌 Goals for 2026
+
+- Build 20+ Python Projects
+- Django Web Development
+- Create  Multi-Automation Tools
+- Contribute to Open Source
+
+---
+
+ 📫 Connect With Me
+
+GitHub: https://github.com/yourusernameumairahmad-co
+
+---
+
+⭐ Thanks for visiting my profile!
+
+💻 Tech Stack:
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
