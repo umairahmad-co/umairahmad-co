@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Results-driven Web Developer & AI Automation Enthusiast with hands-on experience in building responsive websites,<br>WordPress solutions, and AI-powered workflows. Skilled in modern web technologies, chatbot development, and automation<br>tools like n8n and Make.com. Passionate about delivering efficient, scalable, and user-friendly digital solutions.</p>
+<p align="left">Results-driven <B>Web Developer & AI Automation</B> Enthusiast with hands-on experience in building <B>responsive websites</B>,<br>WordPress solutions, and <B>AI-powered workflows</B>. Skilled in modern web technologies, <B>chatbot development</B>, and automation<br>tools like <B>n8n</B> and <B>Make.com</B>. Passionate about delivering efficient, scalable, and user-friendly digital solutions.</p>
 
 ###
 
