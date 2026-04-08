@@ -1,9 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umairahmad-co&label=Profile%20views&color=0e75b6&style=flat" alt="umairahmad-co" /> </p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=umairahmad-co.umairahmad-co&"  />
-</div>
-
 ###
 
 <h1 align="left">Hi 👋 I'm Umair Ahmad</h1>
