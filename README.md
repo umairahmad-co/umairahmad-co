@@ -61,9 +61,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo"  />
 </div>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-###
 
+###
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h3 align="left">💻 My Projects</h3>
 
 ###
@@ -71,7 +71,7 @@
 <p align="left">Here are some projects I am working on:<br><br>Python Programs<br>Mini Python Projects<br>Automation Scripts<br>Django Web Projects</p>
 
 ###
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h3 align="left">📌 Goals for 2026</h3>
 
 ###
@@ -79,7 +79,10 @@
 <p align="left">Build 20+ Python Projects<br>Django Web Development<br>Create Multi-Automation Tools<br>Contribute to Open Source</p>
 
 ###
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="left">⭐ Thanks for visiting my profile!</p>
 
 ###
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umairahmad-co&" alt="umairahmad-co" /></p>
+
